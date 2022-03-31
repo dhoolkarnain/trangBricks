@@ -777,6 +777,9 @@ footer h1{
         grid-column-start: 1;
         grid-column-end: 2;
         }
+        .quick-link a{
+        font-size: 10px;
+        }
         .our-product{
         grid-column-start: 1;
         grid-column-end: 2;
@@ -785,6 +788,11 @@ footer h1{
         .get-in-touch{
         grid-column-start: 1;
         grid-column-end: 2;
+        
+        }
+        .get-in-touch a{
+       
+        font-size: 10px;
         }
     
       .footer-lower p{
@@ -794,7 +802,7 @@ footer h1{
         display: flex;
         align-items: center;
         justify-content: center;
-    
+        font-size: 10px;
       }
     }
    
